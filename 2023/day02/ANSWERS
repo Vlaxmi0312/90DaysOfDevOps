@@ -1,0 +1,6 @@
+Check your present working directory.
+command:pwd
+List all the files or directories including hidden files.
+syntax: ls -al
+Create a nested directory A/B/C/D/E
+syntax: mkdir -p A/B/C/D/E
