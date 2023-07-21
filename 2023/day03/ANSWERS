@@ -1,0 +1,25 @@
+To view what's written in a file.
+syntax: cat filename
+To change the access permissions of files.
+syntax:chmod
+To check which commands you have run till now.
+syntax: History
+To remove a directory/ Folder.
+syntax: rm -r dirname
+To create a fruits.txt file and to view the content.
+syntax: vim fruits.txt and cat fruits.txt
+Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+syntax: vim devops.txt and then enter i, write apple enter mango enter, etc then esc :wq!
+
+To Show only top three fruits from the file.
+syntax:head -3 
+To Show only bottom three fruits from the file.
+syntax:tail -3
+To create another file Colors.txt and to view the content.
+syntax: vim colors.txt and cat to view content
+
+Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+syntax:vi colors.txt enter i for edit mode and write red enter pink enter etc esc :wq!
+
+To find the difference between fruits.txt and Colors.txt file.
+syntax:diff fruits.txt colors.txt
